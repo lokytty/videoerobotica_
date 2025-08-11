@@ -1,1 +1,13 @@
+body {
+  /* Definindo a cor do texto como branco */
+  color: white; 
 
+  /* Definindo o fundo da página como preto */
+  background: black;
+
+  /* Definindo a fonte principal como "Chakra Petch", se disponível, ou uma fonte sans-serif caso contrário */
+  font-family: "Chakra Petch", sans-serif;
+
+  /* Definindo a margem inferior como 100px (distância da parte inferior da página) */
+  margin-bottom: 100px;
+}
