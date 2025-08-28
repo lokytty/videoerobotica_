@@ -8,9 +8,8 @@ margin: 0px; /remove todas as margens externas do elemento,colocando ele para o 
 
 hearder {
  border-bottom: solid 2px rgb(42, 122, 228); /* Aplica uma borda sólida de 2px na parte inferior do header, com a cor azul */
-  padding: 80px; /* Adiciona um preenchimento de 80px ao redor do conteúdo do header */
-  font-size: 80px; /* Define o tamanho da fonte para 80px */
-  display: flex; /* Aplica um layout flexível no header */
+  padding: 20px; /* Adiciona um preenchimento de 80px ao redor do conteúdo do header */
+  font-size: 32px; /* Define o tamanho da fonte para 80px */
   color: rgb(42, 122, 228); /* Define a cor do texto para azul (RGB) */
 }
 
